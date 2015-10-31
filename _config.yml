@@ -1,0 +1,13 @@
+# Site settings
+title: "Moonswitch"
+email: "sales@moonswitch.com"
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://moonswitch.com" # the base hostname & protocol for your site
+
+twitter_username: "moonswitch"
+github_username: "moonswitch"
+facebook_username: "moonswitchsoftware"
+
+# Build settings
+markdown: kramdown
